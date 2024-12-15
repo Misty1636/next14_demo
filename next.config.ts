@@ -5,6 +5,7 @@ const nextConfig: NextConfig = {
     distDir: 'docs',
     output: 'export',
     basePath: '/next14_demo',
+    assetPrefix: '/next14_demo/',
 };
 
 export default nextConfig;
